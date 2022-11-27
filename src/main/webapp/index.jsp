@@ -17,11 +17,7 @@
     <h2 class="text-center">This project is auto-deployed by SCM Webhook trigger with tek-up and using webhook relay
       tunneling </h2>
     <h3>this is a change from webhook</h3>
-    <h3>hello hello </h3>
-    <h3>Hi there </h3>
-    <h3>last change </h3>
-    <h1>another test</h1>
-    <h1> I love you Noussa <3 </h1>
+    <h2> this is a pipeline test </h2>
   </div>
 </body>
 
